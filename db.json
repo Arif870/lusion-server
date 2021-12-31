@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "img": "https://i.ibb.co/QFmYvj5/banana.png",
+      "name": "Banana",
+      "price": "12",
+      "sellPrice": "10",
+      "shortDesc": "Banana is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.",
+      "stock": "30",
+      "category": "fruits"
+    },
+
+    {
+      "id": "2",
+      "img": "https://i.ibb.co/PY787N2/eggplant.png",
+      "name": "Eggplant",
+      "price": "16",
+      "sellPrice": "13",
+      "shortDesc": "Eggplant is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.",
+      "stock": "50",
+      "category": "vegetables"
+    },
+    {
+      "id": "3",
+      "img": "https://i.ibb.co/41Q4L3R/fennal.png",
+      "name": "Fennel Bulb",
+      "price": "13",
+      "sellPrice": "",
+      "shortDesc": "Fennel Bulb of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.",
+      "stock": "52",
+      "category": "vegetables"
+    },
+    {
+      "id": "4",
+      "img": "https://i.ibb.co/3NDjt08/lettuce.png",
+      "name": "Green Lettuce",
+      "price": "23",
+      "sellPrice": "14",
+      "shortDesc": "Green Lettuce of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.",
+      "stock": "45",
+      "category": "vegetables"
+    },
+    {
+      "id": "5",
+      "img": "https://i.ibb.co/M27F17z/mashroom.png",
+      "name": "Mushroom",
+      "price": "14",
+      "sellPrice": "12",
+      "shortDesc": "Mushroom of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.",
+      "stock": "42",
+      "category": "fruits"
+    },
+    {
+      "id": "6",
+      "img": "https://i.ibb.co/BjpB53W/nuts.png",
+      "name": "Almond Nuts",
+      "price": "34",
+      "sellPrice": "",
+      "shortDesc": "Almond Nuts of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.",
+      "stock": "23",
+      "category": "fruits"
+    },
+    {
+      "id": "7",
+      "img": "https://i.ibb.co/x68j355/potato.png",
+      "name": "Potato",
+      "price": "23",
+      "sellPrice": "20",
+      "shortDesc": "Almond Nuts of Ripe Tomatos and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.",
+      "stock": "67",
+      "category": "fruits"
+    },
+    {
+      "id": "8",
+      "img": "https://i.ibb.co/Z6q8cM9/tomato.png",
+      "name": "Ripe Tomatos",
+      "price": "23",
+      "sellPrice": "20",
+      "shortDesc": "Almond Nuts of Ripe Tomatos and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.",
+      "stock": "67",
+      "category": "fruits"
+    }
+  ]
+}
